@@ -1,4 +1,4 @@
-# bwa_cozy
+# cozy
 
 A new Flutter project.
 
